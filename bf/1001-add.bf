@@ -1,3 +1,3 @@
 ,>,<[->+<]>> #read input
-++++++++ #convert fron a to i
-[<------>-]<. #'\n'
+++++++++ #'\n'
+[<------>-]<. #convert fron a to i
